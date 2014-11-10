@@ -2,7 +2,7 @@
 //  HomeViewController.m
 //  xcode-practice
 //
-//  Created by Thianh Lu on 11/4/14.
+//  Created by Thianh X Lu on 11/4/14.
 //  Copyright (c) 2014 Thianh Lu. All rights reserved.
 //
 
