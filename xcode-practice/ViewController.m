@@ -2,7 +2,7 @@
 //  ViewController.m
 //  xcode-practice
 //
-//  Created by Thianh Lu on 10/31/14.
+//  Created by Thianh ZOO on 10/31/14.
 //  Copyright (c) 2014 Thianh Lu. All rights reserved.
 //
 
