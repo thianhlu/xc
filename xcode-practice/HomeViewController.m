@@ -1,20 +1,19 @@
 //
-//  ViewController.m
+//  HomeViewController.m
 //  xcode-practice
 //
-//  Created by Thianh Lu on 10/31/14.
+//  Created by Thianh Lu on 11/4/14.
 //  Copyright (c) 2014 Thianh Lu. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "HomeViewController.h"
 
-@interface ViewController ()
-            
+@interface HomeViewController ()
 
 @end
 
-@implementation ViewController
-            
+@implementation HomeViewController
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
@@ -26,6 +25,8 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+
+- (IBAction)unwindFromView:(UIStoryboardSegue *)segue {}
 
 -(UIStatusBarStyle)preferredStatusBarStyle {
     return UIStatusBarStyleLightContent;
